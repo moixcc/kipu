@@ -1,2 +1,1 @@
-# kipu
-Database
+# Kipu
